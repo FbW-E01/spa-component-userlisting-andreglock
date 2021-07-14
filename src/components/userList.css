@@ -1,0 +1,7 @@
+ul > li {
+    list-style: none;
+    border: solid 1px darkgray;
+    margin: 10px;
+    max-width: 600px;
+}
+
